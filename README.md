@@ -7,6 +7,7 @@ Preview : https://youtu.be/XQe0oubXLXA
 Discord : https://discord.gg/JPTUPg9N9z
 
 Disclaimer
+
 • This is only a UI redesign of ox_target.
 
 • This release modifies the visual/interface design only and does not replace or rebrand the original framework.
